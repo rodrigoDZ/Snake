@@ -8,7 +8,7 @@ pantalla = pygame.display.set_mode((800,800))
 pygame.display.set_caption("Snake")
 
 
-
+print("camara armando")
 while True:
     
     for eventos in pygame.event.get():
