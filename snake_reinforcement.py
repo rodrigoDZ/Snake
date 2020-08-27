@@ -9,6 +9,7 @@ pygame.display.set_caption("Snake")
 
 
 print("camara armando")
+print("jolines")
 while True:
     
     for eventos in pygame.event.get():
