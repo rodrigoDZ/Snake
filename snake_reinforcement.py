@@ -4,7 +4,7 @@ import random
 import sys
 
 pygame.init()
- 
+print("Dasdasd")
 white = (255, 255, 255)
 negro = (0, 0, 0)
 verde = (76, 161, 60)
